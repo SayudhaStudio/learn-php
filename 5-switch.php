@@ -1,7 +1,6 @@
 <?php
 	$page = null;
-	switch ($page)
-	{
+	switch ($page) {
 		case 'Home':
 			echo 'You selected Home';
 			break;
